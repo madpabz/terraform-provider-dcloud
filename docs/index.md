@@ -16,7 +16,7 @@ description: |-
 terraform {
   required_providers {
     dcloud = {
-      version = "0.1"
+      version = "0.1.9"
       source  = "cisco-open/dcloud"
     }
   }
